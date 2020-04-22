@@ -1,0 +1,31 @@
+body{
+    padding: 15px;
+    background-color: deeppink;
+    font-family: sans-serif;
+}
+#title{
+    padding: 10px;
+    font-size: 36px;
+    border:2px solid #FFF;
+    width: 250px;
+}
+#todos-header{
+    font-size: 24px;
+}
+ul{
+    list-style: upper-latin;
+    padding-left: 0px;
+    width: 250px;
+}
+li{
+    color: #333;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-decoration: underline;
+    
+}
+button{
+    cursor: pointer;
+}
